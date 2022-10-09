@@ -1,0 +1,77 @@
+# Blender MTL File: 'phineas.blend'
+# Material Count: 7
+
+newmtl baseleg
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\phineas-3d-model-in-blender\\source\\textures\\baseleg.png
+
+newmtl body
+Ns 0.002975
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.169091 0.169091 0.169091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\phineas-3d-model-in-blender\\source\\textures\\body.png
+
+newmtl eye
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\phineas-3d-model-in-blender\\textures\\eye.png
+
+newmtl hair
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\\phineas-3d-model-in-blender\\textures\\hair.png
+
+newmtl hands
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.982251 0.715694 0.502887
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl head
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\phineas-3d-model-in-blender\\source\\textures\\head.png
+
+newmtl leg
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.982251 0.715694 0.502887
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

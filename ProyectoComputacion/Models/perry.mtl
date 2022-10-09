@@ -1,0 +1,68 @@
+# Blender MTL File: 'Sketchfab_2021_03_02_20_31_15.blend'
+# Material Count: 6
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 2.000000 2.000000 2.000000 D:\\Documentos\\Arturo\\ProyectoComputacion\\ProyectoComputacion\\Textures\\tail.png
+
+newmtl eye
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\random\\phineas and ferb\\perry\\eye.png
+map_d D:\\random\\phineas and ferb\\perry\\eye.png
+
+newmtl hat_black
+Ns 81.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.029557 0.014444 0.014444
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl hat_brown
+Ns 81.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.198069 0.052861 0.004025
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Documentos\\Arturo\\ProyectoComputacion\\ProyectoComputacion\\Textures\\SombreroPerry.png
+
+newmtl orange
+Ns 380.250007
+Ka 1.000000 1.000000 1.000000
+Kd 0.938686 0.341914 0.016807
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Documentos\\Arturo\\ProyectoComputacion\\ProyectoComputacion\\Textures\\PiesPico.png
+
+newmtl teal
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.018500 0.366253 0.341914
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Documentos\\Arturo\\ProyectoComputacion\\ProyectoComputacion\\Textures\\cuerpoPerry.png

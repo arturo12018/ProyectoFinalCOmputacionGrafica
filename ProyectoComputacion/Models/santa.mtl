@@ -1,0 +1,168 @@
+# Blender MTL File: 'None'
+# Material Count: 14
+
+newmtl Beard
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Beard_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Beard_BaseMap.png
+
+newmtl Belt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Belt_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Belt_BaseMap.png
+
+newmtl BeltBuck
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.770000 0.723800 0.215600
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_BeltBuck_Normal_1.png
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_BeltBuck_BaseMap_1.png
+
+newmtl Boot-Left
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.680000 0.343400 0.068000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Boot-Left_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Boot-Left_BaseMap.png
+
+newmtl Boot-Rght
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.760000 0.396340 0.098800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Boot-Rght_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Boot-Rght_BaseMap.png
+
+newmtl Eye-Left
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.760000 0.760000 0.760000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Eye-Left_BaseMap.png
+
+newmtl Eye-Right
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.730400 0.830000 0.742020
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o -0.030000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Eye-Right_BaseMap.png
+
+newmtl Eyebrow-Right
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Eyebrow-Right_Normal.png
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Eyebrow-Right_BaseMap.png
+
+newmtl Eyebrow-left
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Eyebrow-left_Normal.png
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Eyebrow-left_BaseMap.png
+
+newmtl Hat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.760000 0.306027 0.273600
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Hat_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Hat_BaseMap.png
+
+newmtl Moustach
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.992000 1.000000 0.960000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Moustach_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Moustach_BaseMap.png
+
+newmtl Pants
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.760000 0.235600 0.235600
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Pants_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Pants_BaseMap.png
+
+newmtl Skin
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.683333 0.600000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Skin_Normal.png
+map_Kd -o 0.000000 -1.000000 0.000000 C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Skin_BaseMap.png
+
+newmtl Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.760000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Top_Normal.png
+map_Kd C:\\Users\\lawtr\\AppData\\Roaming\\Maxon\\Maxon Cinema 4D R23_DBA5903C\\tex\\Santa-Done_Top_BaseMap.png

@@ -1,0 +1,24 @@
+# Blender MTL File: 'Robot.blend'
+# Material Count: 2
+
+newmtl Металл_светлый
+Ns 440.999985
+Ka 0.700000 0.700000 0.700000
+Kd 0.237117 0.267568 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd G:\\Copia Proyecto\\ProyectoComputacion\\ProyectoComputacion\\Textures\\Gris_Robot.png
+
+newmtl Металл_темный
+Ns 440.999985
+Ka 0.700000 0.700000 0.700000
+Kd 0.158425 0.229052 0.014635
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd G:\\Copia Proyecto\\ProyectoComputacion\\ProyectoComputacion\\Textures\\Coche_Metalness.tga
